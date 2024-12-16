@@ -28,6 +28,7 @@ addpath(pwd);
 ```
 
 Verify your MATLAB environment and ensure .dll files match your operating system.
+
 ---
 
 ## Usage
